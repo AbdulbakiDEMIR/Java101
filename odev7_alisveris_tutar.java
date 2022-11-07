@@ -14,6 +14,6 @@ public class odev7_alisveris_tutar {
         System.out.print("Patlıcan: ");
         double patlican = input.nextDouble();
         double tutar = (armut*2.14)+(elma*3.67)+(domates*1.11)+(muz*0.95)+(patlican*5);
-        System.out.println("Tutar: "+tutar);
+        System.out.println("Tutar: ");
     }
 }
